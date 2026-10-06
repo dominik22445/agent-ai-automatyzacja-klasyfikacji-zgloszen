@@ -1,4 +1,4 @@
-# AI Ticket Classification System
+# Agent AI – automatyzacja klasyfikacji zgłoszeń
 
 ## Opis projektu
 
